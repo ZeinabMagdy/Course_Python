@@ -1,13 +1,13 @@
-(Display a pattern) Write a program that displays the following pattern:
+(Print a table) Write a program that displays the following table:
 
-FFFFFFF U U NN NN
+a a^2 a^3
 
-FF U U NNN NN
+1 1 1
 
-FFFFFFF U U NN N NN
+2 4 8
 
-FF U U NN N NN
+3 9 27
 
-FF UUU NN NNN
+4 16 64
 
-![EX01_04](https://user-images.githubusercontent.com/110781912/197051362-2225ac37-09b6-41a1-92e3-0e9c4794d708.png)
+![EX01 04](https://user-images.githubusercontent.com/110781912/197054021-08660ad9-8dae-42dc-9d35-ecc0644d38ab.png)
