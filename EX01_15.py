@@ -5,13 +5,30 @@ turtle.showturtle()
 
 #Two Triangle
 
-turtle.forward(150)
-turtle.right(130)
-turtle.forward(150)
-turtle.right(115)
-turtle.forward(260)
-turtle.left(115)
-turtle.forward(150)
-turtle.left(128)
-turtle.forward(155)
+turtle.penup()
+turtle.goto(-40, 80)
+turtle.pendown()
+
+turtle.right(120)
+turtle.forward(100)
+
+turtle.penup()
+turtle.goto(-40, -8)
+turtle.pendown()
+turtle.right(120)
+turtle.forward(100)
+
+turtle.penup()
+turtle.goto(-40, 80)
+turtle.pendown()
+
+turtle.right(300)
+turtle.forward(51)
+
+turtle.penup()
+turtle.goto(-40, -8)
+turtle.pendown()
+turtle.right(360)
+turtle.forward(50)
+
 turtle.done()
